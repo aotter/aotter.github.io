@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supr.Link 小精靈</title>
+    <link>https://davidtty990.github.io/</link>
+    <description>Recent content on Supr.Link 小精靈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Thu, 30 Dec 2021 17:07:10 +0800</lastBuildDate><atom:link href="https://davidtty990.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Supr.Link】超多網址讓你縮到厭世？批次功能是你的救星！</title>
+      <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch02/</link>
+      <pubDate>Thu, 30 Dec 2021 17:07:10 +0800</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Supr.Link】使用 Supr.Link 超級連結 — 多種需求，一次滿足！</title>
+      <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch01/</link>
+      <pubDate>Wed, 29 Dec 2021 15:04:54 +0800</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch01/</guid>
+      <description>Supr.Link 超級連結 免費就超強，分流、加密、投放、轉換、批次上傳與追蹤數據，獲取流量！ 電獺長期以來都在數位內容產業中努力，致力於縮短創作至變現的距離，除了讓創作</description>
+    </item>
+    
+    <item>
+      <title>Diagram Support</title>
+      <link>https://davidtty990.github.io/posts/diagram-support/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/diagram-support/</guid>
+      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Support</title>
+      <link>https://davidtty990.github.io/posts/math-support/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/math-support/</guid>
+      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://davidtty990.github.io/docs/example-doc/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/docs/example-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://davidtty990.github.io/docs/example-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/docs/example-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://davidtty990.github.io/docs/example-doc/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/docs/example-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://davidtty990.github.io/docs/example-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/docs/example-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Featured Image</title>
+      <link>https://davidtty990.github.io/posts/featured-image/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/featured-image/</guid>
+      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://davidtty990.github.io/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://davidtty990.github.io/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://davidtty990.github.io/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
