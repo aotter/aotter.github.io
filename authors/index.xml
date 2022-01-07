@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://davidtty990.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 17:07:10 +0800</lastBuildDate><atom:link href="https://davidtty990.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>客服獺</title>
+      <link>https://davidtty990.github.io/authors/%E5%AE%A2%E6%9C%8D%E7%8D%BA/</link>
+      <pubDate>Thu, 30 Dec 2021 17:07:10 +0800</pubDate>
+      
+      <guid>https://davidtty990.github.io/authors/%E5%AE%A2%E6%9C%8D%E7%8D%BA/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Example Author</title>
       <link>https://davidtty990.github.io/authors/example-author/</link>
@@ -24,6 +33,15 @@
       
       <guid>https://davidtty990.github.io/authors/hugo-authors/</guid>
       <description>Vestibulum vel arcu Donec interdum justo sed posuere imperdiet. Quisque nec mauris eu erat mattis egestas in vitae nisl. Sed nisl augue, congue sed quam quis, tempor tempus nibh. Pellentesque accumsan in quam a interdum. Morbi iaculis venenatis lacinia. Mauris quis nisl vitae nisi mollis placerat id vel ligula. Integer vitae arcu ac leo iaculis rhoncus id vitae dolor. Fusce quis nisl tincidunt, vulputate dolor quis, mollis massa. Donec congue velit at risus cursus, eu auctor dolor rhoncus.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidtty990.github.io/authors/aotter-user/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/authors/aotter-user/</guid>
+      <description></description>
     </item>
     
   </channel>
