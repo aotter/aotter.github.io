@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://davidtty990.github.io/posts/supr.link-tutorial/ch01/</loc>
+    <lastmod>2021-12-29T15:04:54+08:00</lastmod>
+  </url><url>
+    <loc>https://davidtty990.github.io/series/about-supr.link/</loc>
+    <lastmod>2021-12-30T17:07:10+08:00</lastmod>
+  </url><url>
+    <loc>https://davidtty990.github.io/series/</loc>
+    <lastmod>2021-12-30T17:07:10+08:00</lastmod>
+  </url><url>
     <loc>https://davidtty990.github.io/posts/</loc>
     <lastmod>2021-12-30T17:07:10+08:00</lastmod>
   </url><url>
@@ -10,9 +19,6 @@
   </url><url>
     <loc>https://davidtty990.github.io/posts/supr.link-tutorial/ch02/</loc>
     <lastmod>2021-12-30T17:07:10+08:00</lastmod>
-  </url><url>
-    <loc>https://davidtty990.github.io/posts/supr.link-tutorial/ch01/</loc>
-    <lastmod>2021-12-29T15:04:54+08:00</lastmod>
   </url><url>
     <loc>https://davidtty990.github.io/authors/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
@@ -54,9 +60,6 @@
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidtty990.github.io/tags/image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidtty990.github.io/series/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidtty990.github.io/tags/</loc>
