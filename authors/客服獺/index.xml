@@ -5,9 +5,10 @@
     <link>https://davidtty990.github.io/authors/%E5%AE%A2%E6%9C%8D%E7%8D%BA/</link>
     <description>Recent content in 客服獺 on Supr.Link 小精靈</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://aotter.net/&#34; target= &#34;_blank&#34;&gt;Aotter Inc.&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Thu, 30 Dec 2021 17:07:10 +0800</lastBuildDate><atom:link href="https://davidtty990.github.io/authors/%E5%AE%A2%E6%9C%8D%E7%8D%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/authors/%E5%AE%A2%E6%9C%8D%E7%8D%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【Supr.Link】使用 Supr.Link 超級連結 — 多種需求，一次滿足！</title>
       <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch01/</link>
@@ -33,6 +34,15 @@
       
       <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch03/</guid>
       <description>大家使用 Supr.Link 縮短網址時，有注意到右下方的「進階設定」按鈕吧？是不是很好奇到底是拿來做什麼呢？ 點開後可是一個全新的世界唷！ Supr.Link 的精華通通都在這，還不快跟我們</description>
+    </item>
+    
+    <item>
+      <title>【Supr.Link】原來不只是縮網址工具？！（縮網址、分流網址、裝置判斷）</title>
+      <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch04/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch04/</guid>
+      <description>「縮網址」這個服務除了把原本字數過多的網址縮短，幫助提升文字的閱讀性，以及排版美觀之外， 還能有什麼樣的玩法呢？ Supr.Link 的首頁上方有三個選項： 縮短網址 分流網址</description>
     </item>
     
   </channel>
