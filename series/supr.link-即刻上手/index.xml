@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://aotter.net/&#34; target= &#34;_blank&#34;&gt;Aotter Inc.&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/series/supr.link-%E5%8D%B3%E5%88%BB%E4%B8%8A%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/series/supr.link-%E5%8D%B3%E5%88%BB%E4%B8%8A%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【Supr.Link】短網址產生器以外，強大的進階功能不能不知</title>
       <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch03/</link>
@@ -25,6 +25,15 @@
       
       <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch04/</guid>
       <description>「縮網址」這個服務除了把原本字數過多的網址縮短，幫助提升文字的閱讀性，以及排版美觀之外， 還能有什麼樣的玩法呢？ Supr.Link 的首頁上方有三個選項： 縮短網址 分流網址</description>
+    </item>
+    
+    <item>
+      <title>【Supr.Link】多人同時管理賬戶怎麼辦？彈性的組織功能</title>
+      <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch05/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch05/</guid>
+      <description>「共同使用與管理」、「快速查看成效、製作報表」，這些都是數位工作者非常需要的功能，尤其是在公司、品牌方等組成人數較多的單位中的需求更為明顯。然而，這些</description>
     </item>
     
   </channel>
