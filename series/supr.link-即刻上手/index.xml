@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://aotter.net/&#34; target= &#34;_blank&#34;&gt;Aotter Inc.&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/series/supr.link-%E5%8D%B3%E5%88%BB%E4%B8%8A%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/series/supr.link-%E5%8D%B3%E5%88%BB%E4%B8%8A%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【Supr.Link】短網址產生器以外，強大的進階功能不能不知</title>
       <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch03/</link>
@@ -34,6 +34,15 @@
       
       <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch05/</guid>
       <description>「共同使用與管理」、「快速查看成效、製作報表」，這些都是數位工作者非常需要的功能，尤其是在公司、品牌方等組成人數較多的單位中的需求更為明顯。然而，這些</description>
+    </item>
+    
+    <item>
+      <title>【Supr.Link】短網址長得和別人一樣？使用自訂網域提升辨別度</title>
+      <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch07/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch07/</guid>
+      <description>自訂網域是什麼？可以吃嗎？！ 哈囉大家好～ 我是客服獺！ 從上次的文章：多人同時管理帳戶怎麼辦？彈性的組織功能 裡我們介紹了許多組織的功能操作， 而其中的 「自訂</description>
     </item>
     
   </channel>
