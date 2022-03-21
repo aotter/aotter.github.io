@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://aotter.net/&#34; target= &#34;_blank&#34;&gt;Aotter Inc.&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidtty990.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【Supr.Link】使用 Supr.Link 超級連結 — 多種需求，一次滿足！</title>
       <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch01/</link>
@@ -79,6 +79,15 @@
       
       <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch08/</guid>
       <description>ADID 是什麼？ ADID (或是蘋果的 IDFA）是所有行動裝置都具備的一組獨立代號，不論是三樓李伯伯看新聞用的手機、隔壁張阿姨追劇用的平板，舉凡大家身邊的智慧型手機</description>
+    </item>
+    
+    <item>
+      <title>【Supr.Link】短網址很危險？先來看看這篇！編輯中</title>
+      <link>https://davidtty990.github.io/posts/supr.link-tutorial/ch09/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidtty990.github.io/posts/supr.link-tutorial/ch09/</guid>
+      <description>我們生活在充滿網址的時代 只要你有使用電子產品，就一定會聽過下面的警告： 「電子郵件不要亂開！」、「來源不明的連結不要亂點！」 過往，大家只有在使用電腦的時</description>
     </item>
     
   </channel>
