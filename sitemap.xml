@@ -72,6 +72,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://davidtty990.github.io/posts/supr.link-tutorial/ch15/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://davidtty990.github.io/authors/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -99,6 +104,16 @@
   </url><url>
     <loc>https://davidtty990.github.io/authors/%E5%AE%A2%E6%9C%8D%E7%8D%BA/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://davidtty990.github.io/series/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E5%B0%8F%E7%9F%A5%E8%AD%98/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://davidtty990.github.io/series/supr.link-%E6%87%89%E7%94%A8%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
